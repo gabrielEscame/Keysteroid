@@ -1,0 +1,11 @@
+canvas {
+  border:  1px solid white;
+  box-shadow: 18px 10px #1a1a1a;
+}
+
+body {
+  background-image: url('./assets/img/background.png');
+  background-color: #0a2529;
+  display: flex;
+  justify-content: center;
+}
