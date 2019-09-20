@@ -21,7 +21,7 @@ class Asteroid {
 
   playSong() {
     this.sound.src = './assets/Keysteroid-Song/8- bit explosion sound effect [SFX].mp3';
-    this.sound.volume = 0.1;
+    this.sound.volume = 0.2;
     this.sound.play();
     console.log('jorgin');
     
