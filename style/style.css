@@ -4,7 +4,7 @@ canvas {
 }
 
 body {
-  background-image: url('./assets/img/background.png');
+  background-image: url('../assets/img/background.png');
   background-color: #0a2529;
   display: flex;
   justify-content: center;
